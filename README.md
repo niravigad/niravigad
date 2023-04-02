@@ -2,7 +2,8 @@
 
 
 - 🔭 Working at Radwin as ATE Developer
-- 🌱 B.sc Computer science at The Open University
+- 👩‍💻 B.sc Computer science at The Open University
+- ⚡ Practical electronics engineer
 - 📫 Reach me at : Nir290@gmail.com
 - :heart: Loves HW & SW 
 
