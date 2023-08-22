@@ -1,7 +1,7 @@
 ### Hi there 👋 i'm Nir Avigad
 
 
-- 🔭 Working at Radwin as ATE Developer
+- 🔭 Working at MSD as ATE Developer
 - 👩‍💻 B.sc Computer science at The Open University
 - ⚡ Practical electronics engineer
 - 📫 Reach me at : Nir290@gmail.com
